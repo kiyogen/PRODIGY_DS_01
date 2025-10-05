@@ -8,7 +8,7 @@ I chose to work with **population data** across countries and years.
 
 ### Contents
 - `Task1.ipynb` → Code for visualization  
-- `dataset1.csv` → Population dataset (1960–2024, multiple countries)  
+- `data1.csv` → Population dataset (1960–2024, multiple countries)  
 - Output plots → histogram visualizations  
 
 ### Approach
