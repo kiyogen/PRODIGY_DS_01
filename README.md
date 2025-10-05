@@ -1,4 +1,4 @@
-# PRODIGY_DS101_Task1
+# PRODIGY_DS_01
 
 ## Task 1: Visualizing a Continuous and Categorical Variable
 
